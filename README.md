@@ -1,6 +1,7 @@
 Internal links to my Variations of Wordle word data:
 P.S. all of my Data compilations for wordle are alphabetically arranged so as to not reveal the day-by-day order of the answers
 Valid Guesses and Possible answers links respectively
+
   Python List format (.py):
     
     https://github.com/VibeCoding-raccoon/Wordle-Window/commit/47cc1904f39becbb3e6730d6b569b7c3d8629c5f
